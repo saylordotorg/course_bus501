@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS501: Strategic Management"
+course_description: "The capstone for the Business major, incorporating elements from all of the core courses. Introduces the field of strategic management, with particular emphasis on identifying goals and formulating strategies and addressing implementation techniques."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: 21st Century Strategy** <span id="5"></span> 
 *Research in strategy really picked up steam in the 20<sup>th</sup>
 century.  However, new research shows that there are other factors that

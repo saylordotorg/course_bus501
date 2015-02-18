@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS501: Strategic Management"
+course_description: "The capstone for the Business major, incorporating elements from all of the core courses. Introduces the field of strategic management, with particular emphasis on identifying goals and formulating strategies and addressing implementation techniques."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Strategy** <span id="1"></span> 
 *In order to understand how to design a strategy, you must first review
 some definitions.  Accordingly, this unit will open by defining the

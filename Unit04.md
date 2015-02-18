@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS501: Strategic Management"
+course_description: "The capstone for the Business major, incorporating elements from all of the core courses. Introduces the field of strategic management, with particular emphasis on identifying goals and formulating strategies and addressing implementation techniques."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Corporate Strategy** <span id="4"></span> 
 *Corporate strategy is perhaps the most important strategy, because it
 sets the metric by which all other strategies are formed within the

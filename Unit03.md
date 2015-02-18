@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS501: Strategic Management"
+course_description: "The capstone for the Business major, incorporating elements from all of the core courses. Introduces the field of strategic management, with particular emphasis on identifying goals and formulating strategies and addressing implementation techniques."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Creating Competitive Advantage** <span id="3"></span> 
 *The success of a strategy depends on the firm’s competitive advantage,
 or whether its position in a competitive market allows it to achieve its

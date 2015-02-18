@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS501: Strategic Management"
+course_description: "The capstone for the Business major, incorporating elements from all of the core courses. Introduces the field of strategic management, with particular emphasis on identifying goals and formulating strategies and addressing implementation techniques."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Strategic Planning** <span id="2"></span> 
 *Strategic planning is the phase of strategic management that comes
 after goals are defined but before the strategy is put into place.  In
